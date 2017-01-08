@@ -16,8 +16,8 @@ function moveFirstSlide() {
 	carouselList.css({marginLeft:0});
 };
 
-var left = document.getElementById('.left');
-var right = document.getElementById('.right');
+var left = document.getElementById('left');
+var right = document.getElementById('right');
 
 
 	
